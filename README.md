@@ -1,6 +1,6 @@
 # Run The Project
 
-To run the porject click the [link](https://receipeapphkuray.surge.sh)
+To run the project click the [link](https://receipeapphkuray.surge.sh).
 
 ## Description
 
