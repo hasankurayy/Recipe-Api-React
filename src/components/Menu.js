@@ -17,7 +17,9 @@ function Menu({setUrl}) {
 
     return (
         <header>
-            <h3 onClick={() => navigate("/")} className="logo">Recipes App</h3>
+            <div className="logo-mine">
+                <a href="/">HKRY</a>
+            </div>
 
             <button className='nav-btn'>
                 <p onClick={() => {setShowCategoriesNav(!showCategoriesNav); setShowCountriesNav(false)}} className="btn-categories" >
